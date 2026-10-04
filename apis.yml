@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Belgium
     description: "Belgium Government Open Data"
     humanURL: https://data.gov.be/
-    baseURL: https://data.gov.be/
     tags:
       - Government
     properties:
